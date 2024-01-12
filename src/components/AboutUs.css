@@ -1,0 +1,13 @@
+/* YourComponent.css */
+.about_containerFluid{
+    height: 460px;
+   background-color: #000;
+}
+.about_img{
+    max-width: 85%;
+    margin-right: auto;    
+}
+.about_text_wrapper{
+margin: auto;
+ width: 60%;
+}

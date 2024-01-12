@@ -1,0 +1,12 @@
+.project_text_wrapper{
+    width: 45%;
+    margin: auto;
+}
+.project_img_wrapper{
+    width: 40%;
+    margin: auto;
+}
+
+.project_img {
+    max-width: 95%;
+}
